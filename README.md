@@ -28,5 +28,3 @@ python cook.py
 ```
 ### SCREENSHOT
 ![Shot](https://github.com/A1S0N/CooKingXSS/blob/master/sc.png)
-
-
